@@ -1,0 +1,2 @@
+# HR-Workforce-Dashboard-Data-Cleaning-Analysis-Excel-Project-
+Built an HR Workforce Analytics Dashboard in Microsoft Excel using raw employee data. Performed data cleaning, standardized records, and created interactive dashboards with Pivot Tables, charts, slicers, and KPIs. Analyzed headcount, attrition, department distribution, salary trends, and tenure insights to support data-driven HR decisions.
